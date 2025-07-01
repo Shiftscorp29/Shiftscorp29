@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shiftscorp29
 - 👀 I’m interested in building new tech platforms
-- 🌱 I’m currently learning python,html,javascript..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://linktr.ee/Devansh_kumar
+- 🌱 Currently Deep diving in the world of AI
+- 📫 How to reach me http://www.shiftscorp.site
 
 <!---
 Shiftscorp29/Shiftscorp29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
